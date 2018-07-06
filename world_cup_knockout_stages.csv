@@ -1,0 +1,17 @@
+sys_data_source_nm,sys_data_schema_nm,sys_data_source_table_nm,sys_insert_date,sys_insert_owner_corp_id,match_round,match_number,match_date,kickoff_time,timezone,home_team,away_team,stadium_name
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,49,2018-06-30,21:00,UTC+3,Winner A,Runner-Up B,Kazan Arena
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,50,2018-06-30,17:00,UTC+3,Winner C,Runner-Up D,Fisht Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,51,2018-07-01,17:00,UTC+3,Winner B,Runner-Up A,Luzhniki Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,52,2018-07-01,21:00,UTC+3,Winner D,Runner-Up C,Nizhny Novgorod Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,53,2018-07-02,18:00,UTC+4,Winner E,Runner-Up F,Samara Arena
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,54,2018-07-02,21:00,UTC+3,Winner G,Runner-Up H,Rostov Arena
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,55,2018-07-03,17:00,UTC+3,Winner F,Runner-Up E,Saint Petersburg Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Round of 16,56,2018-07-03,21:00,UTC+3,Winner H,Runner-Up G,Spartak Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Quarter Finals,57,2018-07-06,17:00,UTC+3,Winner 49,Winner 50,Nizhny Novgorod Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Quarter Finals,58,2018-07-06,21:00,UTC+3,Winner 53,Winner 54,Kazan Arena
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Quarter Finals,59,2018-07-07,18:00,UTC+4,Winner 55,Winner 56,Samara Arena
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Quarter Finals,60,2018-07-07,21:00,UTC+3,Winner 51,Winner 52,Fisht Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Semi Finals,61,2018-07-10,21:00,UTC+3,Winner 57,Winner 58,Saint Petersburg Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Semi Finals,62,2018-07-11,21:00,UTC+3,Winner 59,Winner 60,Luzhniki Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Third-Place Playoff,63,2018-07-14,17:00,UTC+3,Loser 61,Loser 62,Saint Petersburg Stadium
+https://www.fifa.com,https://www.fifa.com/worldcup/matches/#knockoutphase,FIFA,2018-06-22 04:42:21.543000000,a620308,Final,64,2018-07-15,18:00,UTC+3,Winner 61,Winner 62,Luzhniki Stadium

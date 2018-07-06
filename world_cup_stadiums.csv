@@ -1,0 +1,13 @@
+sys_data_source_nm,sys_data_schema_nm,sys_data_source_table_nm,sys_insert_date,sys_insert_owner_corp_id,stadium_name,stadium_key,city,capacity,timezone
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Samara Arena,samara,Samara,45000,UTC+4
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Nizhny Novgorod Stadium,nizhnynovgorod,Nizhny Novgorod,45000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Volgograd Arena,volgograd,Volgograd,45000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Ekaterinburg Arena,ekaterinburg,Ekaterinburg,35000,UTC+5
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Mordovia Arena,mordovia,Saransk,44000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Rostov Arena,rostov,Rostov-on-Don,45000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Kaliningrad Stadium,kaliningrad,Kaliningrad,35000,UTC+2
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Kazan Arena,kazan,Kazan,45000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Fisht Stadium,fisht,Sochi,45000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Saint Petersburg Stadium,saintpetersburg,Saint Petersburg,67000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Spartak Stadium,spartak,Moscow,45000,UTC+3
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,2018-06-18 12:37:15.566000000,a620308,Luzhniki Stadium,luzhniki,Moscow,80000,UTC+3

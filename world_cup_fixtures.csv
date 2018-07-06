@@ -1,0 +1,49 @@
+sys_data_source_nm,sys_data_schema_nm,sys_data_source_table_nm,sys_insert_date,sys_insert_owner_corp_id,match_date,group_name,city,kickoff_time,timezone,stadium_key,stadium_name,home_team_name,home_team_code,away_team_name,away_team_code
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/14/2018,Group A,Moscow,18:00,UTC+3,luzhniki,Luzhniki Stadium,Russia,RUS,Saudi Arabia,KSA
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/15/2018,Group A,Ekaterinburg,17:00,UTC+5,ekaterinburg,Ekaterinburg Arena,Egypt,EGY,Uruguay,URU
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/15/2018,Group B,Sochi,21:00,UTC+3,fisht,Fisht Stadium,Portugal,POR,Spain,ESP
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/15/2018,Group B,Saint Petersburg,18:00,UTC+3,saintpetersburg,Saint Petersburg Stadium,Morocco,MAR,Iran,IRN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/16/2018,Group C,Kazan,13:00,UTC+3,kazan,Kazan Arena,France,FRA,Australia,AUS
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/16/2018,Group C,Saransk,19:00,UTC+3,mordovia,Mordovia Arena,Peru,PER,Denmark,DEN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/16/2018,Group D,Moscow,16:00,UTC+3,spartak,Spartak Stadium,Argentina,ARG,Iceland,ISL
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/16/2018,Group D,Kaliningrad,21:00,UTC+2,kaliningrad,Kaliningrad Stadium,Croatia,CRO,Nigeria,NGA
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/17/2018,Group E,Rostov-on-Don,21:00,UTC+3,rostov,Rostov Arena,Brazil,BRA,Switzerland,SUI
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/17/2018,Group E,Samara,16:00,UTC+4,samara,Samara Arena,Costa Rica,CRC,Serbia,SRB
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/17/2018,Group F,Moscow,18:00,UTC+3,luzhniki,Luzhniki Stadium,Germany,GER,Mexico,MEX
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/18/2018,Group F,Nizhny Novgorod,15:00,UTC+3,nizhnynovgorod,Nizhny Novgorod Stadium,Sweden,SWE,Korea Republic,KOR
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/18/2018,Group G,Sochi,18:00,UTC+3,fisht,Fisht Stadium,Belgium,BEL,Panama,PAN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/18/2018,Group G,Volgograd,21:00,UTC+3,volgograd,Volgograd Arena,Tunisia,TUN,England,ENG
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/19/2018,Group H,Moscow,18:00,UTC+3,spartak,Spartak Stadium,Poland,POL,Senegal,SEN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/19/2018,Group H,Saransk,15:00,UTC+3,mordovia,Mordovia Arena,Colombia,COL,Japan,JPN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/19/2018,Group A,Saint Petersburg,21:00,UTC+3,saintpetersburg,Saint Petersburg Stadium,Russia,RUS,Egypt,EGY
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/20/2018,Group A,Rostov-on-Don,18:00,UTC+3,rostov,Rostov Arena,Uruguay,URU,Saudi Arabia,KSA
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/20/2018,Group B,Moscow,15:00,UTC+3,luzhniki,Luzhniki Stadium,Portugal,POR,Morocco,MAR
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/20/2018,Group B,Kazan,21:00,UTC+3,kazan,Kazan Arena,Iran,IRN,Spain,ESP
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/21/2018,Group C,Ekaterinburg,20:00,UTC+5,ekaterinburg,Ekaterinburg Arena,France,FRA,Peru,PER
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/21/2018,Group C,Samara,16:00,UTC+4,samara,Samara Arena,Denmark,DEN,Australia,AUS
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/21/2018,Group D,Nizhny Novgorod,21:00,UTC+3,nizhnynovgorod,Nizhny Novgorod Stadium,Argentina,ARG,Croatia,CRO
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/22/2018,Group D,Volgograd,18:00,UTC+3,volgograd,Volgograd Arena,Nigeria,NGA,Iceland,ISL
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/22/2018,Group E,Saint Petersburg,15:00,UTC+3,saintpetersburg,Saint Petersburg Stadium,Brazil,BRA,Costa Rica,CRC
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/22/2018,Group E,Kaliningrad,20:00,UTC+2,kaliningrad,Kaliningrad Stadium,Serbia,SRB,Switzerland,SUI
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/23/2018,Group F,Sochi,21:00,UTC+3,fisht,Fisht Stadium,Germany,GER,Sweden,SWE
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/23/2018,Group F,Rostov-on-Don,18:00,UTC+3,rostov,Rostov Arena,Korea Republic,KOR,Mexico,MEX
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/23/2018,Group G,Moscow,15:00,UTC+3,spartak,Spartak Stadium,Belgium,BEL,Tunisia,TUN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/24/2018,Group G,Nizhny Novgorod,15:00,UTC+3,nizhnynovgorod,Nizhny Novgorod Stadium,England,ENG,Panama,PAN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/24/2018,Group H,Kazan,21:00,UTC+3,kazan,Kazan Arena,Poland,POL,Colombia,COL
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/24/2018,Group H,Ekaterinburg,20:00,UTC+5,ekaterinburg,Ekaterinburg Arena,Japan,JPN,Senegal,SEN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/25/2018,Group A,Samara,18:00,UTC+4,samara,Samara Arena,Uruguay,URU,Russia,RUS
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/25/2018,Group A,Volgograd,17:00,UTC+3,volgograd,Volgograd Arena,Saudi Arabia,KSA,Egypt,EGY
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/25/2018,Group B,Saransk,21:00,UTC+3,mordovia,Mordovia Arena,Iran,IRN,Portugal,POR
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/25/2018,Group B,Kaliningrad,20:00,UTC+2,kaliningrad,Kaliningrad Stadium,Spain,ESP,Morocco,MAR
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/26/2018,Group C,Moscow,17:00,UTC+3,luzhniki,Luzhniki Stadium,Denmark,DEN,France,FRA
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/26/2018,Group C,Sochi,17:00,UTC+3,fisht,Fisht Stadium,Australia,AUS,Peru,PER
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/26/2018,Group D,Saint Petersburg,21:00,UTC+3,saintpetersburg,Saint Petersburg Stadium,Nigeria,NGA,Argentina,ARG
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/26/2018,Group D,Rostov-on-Don,21:00,UTC+3,rostov,Rostov Arena,Iceland,ISL,Croatia,CRO
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/27/2018,Group E,Moscow,21:00,UTC+3,spartak,Spartak Stadium,Serbia,SRB,Brazil,BRA
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/27/2018,Group E,Nizhny Novgorod,21:00,UTC+3,nizhnynovgorod,Nizhny Novgorod Stadium,Switzerland,SUI,Costa Rica,CRC
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/27/2018,Group F,Kazan,17:00,UTC+3,kazan,Kazan Arena,Korea Republic,KOR,Germany,GER
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/27/2018,Group F,Ekaterinburg,19:00,UTC+5,ekaterinburg,Ekaterinburg Arena,Mexico,MEX,Sweden,SWE
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/28/2018,Group G,Kaliningrad,20:00,UTC+2,kaliningrad,Kaliningrad Stadium,England,ENG,Belgium,BEL
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/28/2018,Group G,Saransk,21:00,UTC+3,mordovia,Mordovia Arena,Panama,PAN,Tunisia,TUN
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/28/2018,Group H,Volgograd,17:00,UTC+3,volgograd,Volgograd Arena,Japan,JPN,Poland,POL
+https://github.com/openfootball/,https://github.com/openfootball/world-cup,Open_Football,01:04.8,a620308,6/28/2018,Group H,Samara,18:00,UTC+4,samara,Samara Arena,Senegal,SEN,Colombia,COL

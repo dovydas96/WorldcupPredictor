@@ -1,0 +1,21 @@
+sys_data_source_nm,sys_data_schema_nm,sys_data_source_table_nm,sys_insert_date,sys_insert_owner_corp_id,year,host_country,winner,runners_up,third_place,fourth_pace,goals_scored,qualified_teams,matches_played
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1930,Uruguay,Uruguay,Argentina,USA,Yugoslavia,70,13,18
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1934,Italy,Italy,Czechoslovakia,Germany,Austria,70,16,17
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1938,France,Italy,Hungary,Brazil,Sweden,84,15,18
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1950,Brazil,Uruguay,Brazil,Sweden,Spain,88,13,22
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1954,Switzerland,Germany FR,Hungary,Austria,Uruguay,140,16,26
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1958,Sweden,Brazil,Sweden,France,Germany FR,126,16,35
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1962,Chile,Brazil,Czechoslovakia,Chile,Yugoslavia,89,16,32
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1966,England,England,Germany FR,Portugal,Soviet Union,89,16,32
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1970,Mexico,Brazil,Italy,Germany FR,Uruguay,95,16,32
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1974,Germany,Germany FR,Netherlands,Poland,Brazil,97,16,38
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1978,Argentina,Argentina,Netherlands,Brazil,Italy,102,16,38
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1982,Spain,Italy,Germany FR,Poland,France,146,24,52
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1986,Mexico,Argentina,Germany FR,France,Belgium,132,24,52
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1990,Italy,Germany FR,Argentina,Italy,England,115,24,52
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1994,USA,Brazil,Italy,Sweden,Bulgaria,141,24,52
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,1998,France,France,Brazil,Croatia,Netherlands,171,32,64
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,2002,Korea/Japan,Brazil,Germany,Turkey,Korea Republic,161,32,64
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,2006,Germany,Italy,France,Germany,Portugal,147,32,64
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,2010,South Africa,Spain,Netherlands,Germany,Uruguay,145,32,64
+https://www.kaggle.com,https://www.kaggle.com/abecklas/fifa-world-cup/,Kaggle,2018-06-19 11:03:16.094000000,a620308,2014,Brazil,Germany,Argentina,Netherlands,Brazil,171,32,64
